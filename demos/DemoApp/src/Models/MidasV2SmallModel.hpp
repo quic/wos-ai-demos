@@ -4,6 +4,7 @@
 * SPDX-License-Identifier: BSD-3-Clause-Clear
 **************************************************************************************************
 */
+
 #pragma once
 #include <Models/Model.hpp>
 #include <algorithm>
